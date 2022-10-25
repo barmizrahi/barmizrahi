@@ -2,7 +2,7 @@
 
 ## :sassy_man:  About me
 - :school: I’m a Third-year B.Sc Software Engineering student at Afeka College Tel-Aviv
-- :thinking: I’m currently open for new job opportunits as a student Android developer position, this is [MY RESUME](https://drive.google.com/file/d/1HrD8XTiFt0QkVVovzp0g46dGONcI-lEm/view?usp=sharing).
+- :thinking: I’m currently open for new job opportunits as a student Android developer position, this is [MY RESUME](https://drive.google.com/file/d/1FiX7kSRjHVy0Oi1sHFLtZKNzNP6hqkS1/view?usp=sharing).
 - :trophy: Won first place (out of sixteen teams) at 2021 hackathon of Afeka College
 - :technologist: I love using Software as a solution to every Problem
 - :computer: Java is my favorite language
