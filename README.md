@@ -1,8 +1,8 @@
 <h1 align="center">Hi , I'm Bar Mizrahi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## :sassy_man:  About me
-- :school: I’m a Fourth-year B.Sc Software Engineering student at Afeka College Tel-Aviv
-- :thinking: I’m currently open for new job opportunits as a student Android developer position, this is [MY RESUME](https://drive.google.com/file/d/1-2d5piSdFdAXxszmDsCM41J2Dj3QWsio/view?usp=sharing).
+- :school: B.Sc Software Engineering at Afeka College Tel-Aviv
+- :thinking: I’m currently open for new job opportunits as a backEnd Developer position, this is [MY RESUME](https://drive.google.com/file/d/1-2d5piSdFdAXxszmDsCM41J2Dj3QWsio/view?usp=sharing).
 - :trophy: Won first place (out of sixteen teams) at 2021 hackathon of Afeka College
 - :technologist: I love using Software as a solution to every Problem
 - :computer: Java is my favorite language
