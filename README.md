@@ -4,13 +4,13 @@
 Backend Java Developer with 3+ years of experience building scalable, event-driven systems and large-scale microservices.
 Currently developing high-performance backend services at Compie using Java 21, Spring Boot, Apache Kafka, and modern microservices architecture.
 - :school: B.Sc Software Engineering at Afeka College Tel-Aviv
-  
-🛠️ Expertise
-	Core Technologies: Java (Java 21), Spring Boot, REST APIs, Microservices
-	Event-Driven Architecture: Apache Kafka
-	Databases: Oracle SQL, MongoDB
-	Other: Multithreading, Performance Optimization, AWS, Docker, Git
-📌 Highlights
+- 🛠️ Expertise
+	- Core Technologies: Java (Java 21), Spring Boot, REST APIs, Microservices
+	- Event-Driven Architecture: Apache Kafka
+	- Databases: Oracle SQL, MongoDB
+	- Other: Multithreading, Performance Optimization, AWS, Docker, Git
+   
+- 📌 Highlights
 	Built automated multithreaded pipelines that process ~50K records daily and reduced manual operational effort by over 75%
 	Designed and developed a constraint-based scheduling engine currently running at one of Israel’s largest retail chains
 	- :trophy: Won first place (out of sixteen teams) at 2021 hackathon of Afeka College
