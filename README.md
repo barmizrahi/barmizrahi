@@ -1,12 +1,18 @@
 <h1 align="center">Hi , I'm Bar Mizrahi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## :sassy_man:  About me
-Backend Developer skilled in building scalable, high-performance systems with Java, Spring Boot, and SQL.
-Experienced in API design, automation, and cloud-based deployments, with a focus on clean architecture and optimized performance.
+Backend Java Developer with 3+ years of experience building scalable, event-driven systems and large-scale microservices.
+Currently developing high-performance backend services at Compie using Java 21, Spring Boot, Apache Kafka, and modern microservices architecture.
 - :school: B.Sc Software Engineering at Afeka College Tel-Aviv
-- :thinking: I’m currently open for new job opportunits as a backEnd Developer position.
-- :trophy: Won first place (out of sixteen teams) at 2021 hackathon of Afeka College
-- :technologist: I love using Software as a solution to every Problem
+🛠️ Expertise
+	Core Technologies: Java (Java 21), Spring Boot, REST APIs, Microservices
+	Event-Driven Architecture: Apache Kafka
+	Databases: Oracle SQL, MongoDB
+	Other: Multithreading, Performance Optimization, AWS, Docker, Git
+📌 Highlights
+	Built automated multithreaded pipelines that process ~50K records daily and reduced manual operational effort by over 75%
+	Designed and developed a constraint-based scheduling engine currently running at one of Israel’s largest retail chains
+	- :trophy: Won first place (out of sixteen teams) at 2021 hackathon of Afeka College
 - :computer: Java is my favorite language
 - :nerd_face: Always love to learning new things
 
