@@ -8,7 +8,6 @@ Currently developing high-performance backend services at Compie using Java 21, 
 	- Event-Driven Architecture: Apache Kafka
 	- Databases: Oracle SQL, MongoDB
 	- Other: Multithreading, Performance Optimization, AWS, Docker, Git
-   
 - 📌 Highlights
 	- Built automated multithreaded pipelines that process ~50K records daily and reduced manual operational effort by over 75%
 	  Designed and developed a constraint-based scheduling engine currently running at one of Israel’s largest retail chains
@@ -16,9 +15,7 @@ Currently developing high-performance backend services at Compie using Java 21, 
  -  :school: B.Sc Software Engineering at Afeka College Tel-Aviv
 - :computer: Java is my favorite language
 - :nerd_face: Always love to learning new things
-
 <br>
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
