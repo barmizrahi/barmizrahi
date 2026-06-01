@@ -4,6 +4,7 @@
 Backend Java Developer with 3+ years of experience building scalable, event-driven systems and large-scale microservices.
 Currently developing high-performance backend services at Compie using Java 21, Spring Boot, Apache Kafka, and modern microservices architecture.
 - :school: B.Sc Software Engineering at Afeka College Tel-Aviv
+  
 🛠️ Expertise
 	Core Technologies: Java (Java 21), Spring Boot, REST APIs, Microservices
 	Event-Driven Architecture: Apache Kafka
